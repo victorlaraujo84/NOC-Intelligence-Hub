@@ -1,0 +1,6 @@
+{
+  "name": "NOC Intelligence Hub",
+  "description": "Unified 24x7 NOC operational command portal integrating Zabbix-Analyzer, Triggers Factory, OperaDash, Shift Manager, Shift Intelligence handover, and Performance Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
